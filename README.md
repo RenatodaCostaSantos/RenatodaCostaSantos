@@ -39,7 +39,7 @@ I am a Doctor in Physics currently switching from academia to industry. I was a 
 - Programming: Python, Mathematica, Octave, SQL
 - Jupyter Notebooks, Excel, LaTeX
 
-Soft Skills:
+### Soft Skills:
 
 - Analytical and critical thinking
 - Teamwork and adaptability
@@ -48,7 +48,7 @@ Soft Skills:
 - Driven
 
 
-Spoken Languages:
+### Spoken Languages:
 
 - English (fluent)
 - Portuguese (native)
