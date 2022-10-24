@@ -16,7 +16,7 @@ I am a Doctor in Physics currently switching from academia to industry. I was a 
 - Exploring students struggles in Physics using YouTube data: (IN PROGRESS)
 
 
-### Physical research publications:
+### Physics research publications:
 
 - Covariant c-flation: [arXiv](https://arxiv.org/pdf/1705.03461.pdf)/ [Int.J.Mod.Phys.](https://www.worldscientific.com/doi/abs/10.1142/S0218271819501190)
 - Conformal Inflation with Chameleon Coupling: [arXiv](https://arxiv.org/pdf/1711.10408.pdf)/ [JCAP](https://iopscience.iop.org/article/10.1088/1475-7516/2019/04/027)
