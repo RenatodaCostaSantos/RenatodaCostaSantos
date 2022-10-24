@@ -13,7 +13,7 @@ I am a Doctor in Physics currently switching from academia to industry. I was a 
 
 ### Data Science Projects:
 
-- Exploring students struggles in Physics using YouTube data: (IN PROGRESS)
+- [Potential topics in Physics](https://github.com/RenatodaCostaSantos/Portfolio/tree/main/Challenging_Topics_Physics)
 
 
 ### Physics research publications:
