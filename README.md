@@ -5,7 +5,7 @@
 
 I am a doctor in physics and data scientist. I was a postdoctoral fellow at the University of Cape Town in South Africa for three years and had a semester experience as a lecturer at the Federal University of Itajuba in Brazil in 2021. I am currently working as a data scientist at Kunumi.
 
-%- 🔭 I’m currently working on a project to help predict patients with heart disease using machine learning.
+- 🔭 I’m currently working on a project to help predict patients with heart disease using machine learning.
 - 👯  I’m looking to collaborate on data analysis projects, machine learning, or software engineering.
 - 📡 How to reach me: connect with me at [LinkedIn](https://www.linkedin.com/feed/)
 - 🧙 Pronouns: he/him
