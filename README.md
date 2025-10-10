@@ -36,7 +36,7 @@ I am a doctor in physics and data scientist. I was a postdoctoral fellow at the 
 - Mathematics: Linear Algebra, Multivariate Calculus, Differential Geometry, Statistics
 - Machine Learning: Data Extraction, Exploration, Cleaning, Visualization, Analysis and Modeling
 - Programming: Python, Mathematica, Octave, SQL
-- Jupyter Notebooks, Excel, LaTeX
+- Jupyter Notebooks, Excel, LaTeX, Git, GitHub, Python, Databricks
 
 ### Soft Skills:
 
