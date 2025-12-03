@@ -12,6 +12,8 @@ I hold a Ph.D. in Physics and am currently a Data Scientist at Kunumi Institute.
 
 ### Data Science Projects:
 
+- [Tracking primordial gravitational waves with machine learning]([https://github.com/RenatodaCostaSantos/capacitacao])
+
 - [Potential topics in Physics](https://github.com/RenatodaCostaSantos/Portfolio/tree/main/Challenging_Topics_Physics)
 
 
